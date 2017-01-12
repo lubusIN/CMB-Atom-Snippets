@@ -4,7 +4,7 @@ For use with [HumanMade's Custom Meta Boxes](https://github.com/humanmade/Custom
 
 ![CMB Atom Snippets](https://cloud.githubusercontent.com/assets/1039236/19284518/ce8d1760-9013-11e6-9d01-6a6c721af758.gif)
 
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)]() [![GitHub tag](https://img.shields.io/github/tag/lubusonline/CMB-Atom-Snippets.svg?style=flat-square)](https://github.com/lubusonline/CMB-Atom-Snippets/releases/latest) [![GitHub tag](https://img.shields.io/github/release/lubusonline/CMB-Atom-Snippets.svg?style=flat-square)](https://github.com/lubusonline/CMB-Atom-Snippets/releases)  
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)]() [![GitHub tag](https://img.shields.io/github/tag/lubusIn/CMB-Atom-Snippets.svg?style=flat-square)](https://github.com/lubusIn/CMB-Atom-Snippets/releases/latest) [![GitHub tag](https://img.shields.io/github/release/lubusIN/CMB-Atom-Snippets.svg?style=flat-square)](https://github.com/lubusIN/CMB-Atom-Snippets/releases)  
 
 
 About
@@ -18,12 +18,12 @@ HumanMade's Custom Meta Box is an important part of our WordPress development wo
 Installation
 ------------
 
-Atom Package: https://atom.io/packages/CMB-Atom-Snippets
+Atom Package: https://atom.io/packages/CMB-Snippets
 
-Settings/Preferences  ➔ Install ➔ Packages ➔ Search for `CMB-Atom-Snippets`
+Settings/Preferences  ➔ Install ➔ Packages ➔ Search for `CMB-Snippets`
 
 ```bash
-apm install CMB-Atom-Snippets
+apm install CMB-Snippets
 ```
 
 Milestones & Future Roadmap
