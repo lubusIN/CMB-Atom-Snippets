@@ -83,8 +83,13 @@ Credits
 
 Maintained by [Ajit Bohra](https://github.com/ajitbohra) at LUBUS
 
-## About LUBUS
+About LUBUS
+-----------
 LUBUS is a web design agency based in Mumbai. More about us could be found here [on our website](http://lubus.in).
+
+License
+-----------
+WordCamp Dashboard Widget is open-sourced software licensed under the [GPL 3.0 license](LICENSE)
 
 
 Change log
