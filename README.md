@@ -1,6 +1,6 @@
 **CMB Atom Snippets**
 --------------------
-For use with [HumanMade's Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes/) for [Wordpress](wordpress.org)
+For use with [HumanMade's Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes/) for [WordPress](wordpress.org)
 
 ![CMB Atom Snippets](https://cloud.githubusercontent.com/assets/1039236/19284518/ce8d1760-9013-11e6-9d01-6a6c721af758.gif)
 
