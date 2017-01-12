@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB Title Field':
+    'prefix': 'cmb:title'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:title}',
+	    'name' => '${2:Title Text}',
+	    'type' => 'title',
+	),
+
+    """

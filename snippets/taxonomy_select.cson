@@ -1,0 +1,13 @@
+'.text.php':
+  'CMB Taxanomy Select Field':
+    'prefix': 'cmb:taxonomy_select'
+    'body': """
+
+	array(
+	    'id'       => $prefix.'${1:taxonomy_select}',
+	    'name'     => '${2:Taxonomy Select Field}',
+	    'type'     => 'taxonomy_select',
+	    'taxonomy' => '${3:category}'
+	);
+
+    """

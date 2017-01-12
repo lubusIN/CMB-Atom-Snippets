@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB File Field':
+    'prefix': 'cmb:file'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:file}',
+	    'name' => '${2:A file field}',
+	    'type' => 'file',
+	),
+
+    """

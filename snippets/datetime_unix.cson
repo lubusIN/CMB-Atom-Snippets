@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB Unix DateTime Field':
+    'prefix': 'cmb:datetime_unix'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:datetime_unix}',
+	    'name' => '${2:A unix date and time field}',
+	    'type' => 'datetime_unix',
+	),
+
+    """

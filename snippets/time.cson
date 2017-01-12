@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB Time Field':
+    'prefix': 'cmb:time'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:time}',
+	    'name' => '${2:A time field}',
+	    'type' => 'time',
+	),
+
+    """

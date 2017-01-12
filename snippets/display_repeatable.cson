@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB Display Repeatable Meta':
+    'prefix': 'cmb:display_repeatable'
+    'body': """
+
+// Note that the 3rd param is false to retrieve all meta entries with the same key (This is false by default)
+$field_data = get_post_meta( get_the_id(), '${1:REPEATABLE_FIELD_ID}', false );
+
+foreach ( $field_data as $single_field )
+    echo $single_field;
+    
+    """

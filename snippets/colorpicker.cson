@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB Colorpicker Field':
+    'prefix': 'cmb:colorpicker'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:colorpicker}',
+	    'name' => '${2:A color picker input}',
+	    'type' => 'colorpicker',
+	),
+
+    """

@@ -1,0 +1,15 @@
+'.text.php':
+  'CMB wysiwyg Field':
+    'prefix': 'cmb:wysiwyg'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:wysiwyg}',
+	    'name' => '${2:A WYSIWYG editor field}',
+	    'type' => 'wysiwyg',
+	    'options' => array(
+	        'textarea_rows' => 5
+	    )
+	),
+
+    """

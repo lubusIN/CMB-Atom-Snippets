@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB URL Text Field':
+    'prefix': 'cmb:text_url'
+    'body': """
+
+array(
+    'id'   => $prefix.'${1:url}',
+    'name' => '${2:A simple text url}',
+    'type' => 'text_url',
+),
+
+    """

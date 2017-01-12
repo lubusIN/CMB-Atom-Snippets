@@ -1,0 +1,16 @@
+'.text.php':
+  'CMB Post Select Field':
+    'prefix': 'cmb:post_select'
+    'body': """
+
+	array(
+	    'id'       => $prefix.'${1:post_select}',
+	    'name'     => '${2:Post Select Field}',
+	    'type'     => 'post_select',
+	    'use_ajax' => true,
+	    'query' => array(
+	        'cat' => ${3:8}
+	    )
+	);
+
+    """

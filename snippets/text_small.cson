@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB Small Text Field':
+    'prefix': 'cmb:text_small'
+    'body': """
+
+		array(
+  	    'id'   => $prefix.'${1:text_small}',
+  	    'name' => '${2:A small text input}',
+  	    'type' => 'text_small',
+  	),
+
+    """

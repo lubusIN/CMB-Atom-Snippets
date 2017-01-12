@@ -1,0 +1,8 @@
+'.text.php':
+  'CMB Display Meta':
+    'prefix': 'cmb:display'
+    'body': """
+
+      get_post_meta( get_the_id(), '${1:YOUR_FIELD_ID}', true );
+
+    """

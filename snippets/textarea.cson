@@ -1,0 +1,13 @@
+'.text.php':
+  'CMB Textarea Field':
+    'prefix': 'cmb:textarea'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:textarea}',
+	    'name' => '${2:A textarea field}',
+	    'type' => 'textarea',
+	    'rows' => 6,
+	),
+
+    """

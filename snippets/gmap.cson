@@ -1,0 +1,13 @@
+'.text.php':
+  'CMB Google Map Field':
+    'prefix': 'cmb:gmap'
+    'body': """
+
+		array(
+  	    'id'   => $prefix.'${1:gmap}',
+  	    'name' => '${2:Location using google map}',
+  	    'type' 	=> 'gmap',
+  	    'google_api_key ' => '${3:GOOGLE_API_KEY}'
+  	),
+
+    """

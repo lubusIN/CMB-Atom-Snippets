@@ -1,0 +1,12 @@
+'.text.php':
+  'CMB Date Field':
+    'prefix': 'cmb:date'
+    'body': """
+
+	array(
+	    'id'   => $prefix.'${1:date}',
+	    'name' => '${2:A date field}',
+	    'type' => 'date',
+	),
+
+    """

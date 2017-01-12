@@ -1,0 +1,11 @@
+'.text.php':
+  'CMB Display Grouped Meta':
+    'prefix': 'cmb:display_group'
+    'body': """
+
+$group_data = get_post_meta( get_the_id(), '${1:YOUR_GROUP_ID}', true );
+
+  if ( ! empty( $group_data['${1:YOUR_GROUP_ID}'] ) )
+          echo esc_html( $group_data['${1:YOUR_GROUP_ID}'] );
+
+    """

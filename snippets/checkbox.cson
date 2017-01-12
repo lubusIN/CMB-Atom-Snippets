@@ -1,0 +1,11 @@
+'.text.php':
+  'CMB Checkbox Field':
+    'prefix': 'cmb:checkbox'
+    'body': """
+
+array(
+    'id'   => $prefix.'${1:checkbox}',
+    'name' => '${2:checkbox label}',
+    'type' => 'checkbox',
+),
+    """
