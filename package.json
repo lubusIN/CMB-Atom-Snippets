@@ -1,0 +1,24 @@
+{
+  "name": "CMB-Snippets",
+  "description": "For use with HumanMade’s Custom Meta Boxes for Wordpress Edit",
+  "keywords": [
+    "cmb",
+    "wordpress",
+    "wp",
+    "custom meta boxes",
+    "metaboxes",
+    "humanmade",
+    "custom meta",
+    "meta",
+  ],
+  "version": "0.1.0",
+  "repository": "https://github.com/lubusIN/CMB-Atom-Snippets.git",
+  "license": "GPL",
+  "author": {
+    "name": "LUBUS"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
