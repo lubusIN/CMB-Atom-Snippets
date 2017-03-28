@@ -1,18 +1,21 @@
-**CMB Atom Snippets**
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/1039236/24429558/3298814a-1430-11e7-960e-ac3d0e82b740.png"></p>
+
+<p align="center">
+<a href="https://github.com/lubusIN/CMB-Atom-Snippets/releases"><img src="https://img.shields.io/github/release/lubusIN/CMB-Atom-Snippets.svg?style=flat-square" alt="Latest Stable Version"></a> <a href="https://atom.io/packages/CMB-Snippets"><img src="https://img.shields.io/apm/dm/CMB-Snippets.svg" alt="Downloads"></a> <a href="https://atom.io/packages/CMB-Snippets"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="Licence"></a>
+</p>
+
+**Introduction**
 --------------------
 For use with [HumanMade's Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes/) for [WordPress](http://wordpress.org)
 
 ![CMB Atom Snippets](https://cloud.githubusercontent.com/assets/1039236/19284518/ce8d1760-9013-11e6-9d01-6a6c721af758.gif)
-
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)]() [![GitHub tag](https://img.shields.io/github/tag/lubusIn/CMB-Atom-Snippets.svg?style=flat-square)](https://github.com/lubusIn/CMB-Atom-Snippets/releases/latest) [![GitHub tag](https://img.shields.io/github/release/lubusIN/CMB-Atom-Snippets.svg?style=flat-square)](https://github.com/lubusIN/CMB-Atom-Snippets/releases)  
-
 
 About
 ---------
 
 HumanMade's Custom Meta Box is an important part of our WordPress development workflow. We extensively use it on majority of our projects to craft beautiful custom back ends which are easy to use. To speed our workflow we created these Atom snippets. Thought to share it with other fellow developers. We will actively keep improving these snippets.
 
->**SublimeText:** SublimeText User ? no worries you are covered, snippets are available [here](https://github.com/lubusIN/CMB-sublime-snippets).
+>**SublimeText:** SublimeText User ? no worries you are covered, snippets are available [here](https://github.com/lubusIN/CMB-Atom-Snippets).
 
 
 Installation
@@ -22,14 +25,14 @@ Atom Package: https://atom.io/packages/CMB-Snippets
 
 Settings/Preferences  ➔ Install ➔ Packages ➔ Search for `CMB-Snippets`
 
-```bash
+```shell
 apm install CMB-Snippets
 ```
 
-Milestones & Future Roadmap
+Roadmap
 -------------------------------
 
-To know about the upcoming release and release plan check out our [milestones](https://github.com/lubusonline/CMB-sublime-snippets/milestones). If you want to contribute or suggest anything feel free to send pull request (PR) or [create an issue](https://github.com/lubusonline/CMB-sublime-snippets/issues/new)
+To know about the upcoming release and release plan check out our [milestones](https://github.com/lubusIN/CMB-Atom-Snippets/milestones). If you want to contribute or suggest anything feel free to send pull request (PR) or [create an issue](https://github.com/lubusIN/CMB-Atom-Snippets/issues/new)
 
 
 Snippets
@@ -73,25 +76,25 @@ Snippets
 | cmb:gmap		       | Generate location - google map field  	|
 | cmb:colorpicker 	   | Display color picker 			field  	|
 
-Contributing
+**Contributing**
+----------------
+
+Thank you for considering contributing to the CMB Atom Snippets. You can read the contribution guide lines [here](CONTRIBUTING.md)
+
+You can Check [here](https://github.com/lubusIN/CMB-Atom-Snippets/projects/1) Task list
+
+**Credits**
 ------------
+Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 
-Thank you for considering contributing to the "CMB Atom Snippets". You can read the contribution guide lines [here](CONTRIBUTING.md)
+**About LUBUS**
+---------------
+[LUBUS](http://lubus.in) is a WordPress & Laravel agency based in Mumbai.
 
-Credits
--------
-
-Maintained by [Ajit Bohra](https://github.com/ajitbohra) at LUBUS
-
-About LUBUS
+**License**
 -----------
-LUBUS is a web design agency based in Mumbai. More about us could be found here [on our website](http://lubus.in).
-
-License
------------
-WordCamp Dashboard Widget is open-sourced software licensed under the [GPL 3.0 license](LICENSE)
-
+CMB Atom Snippets is open-sourced software licensed under the [GPL 3.0 license](LICENSE)
 
 Change log
 ----------
-For details [view changelog](https://github.com/lubusonline/CMB-sublime-snippets/blob/master/CHANGELOG.md)
+For details [view changelog](https://github.com/lubusIN/CMB-Atom-Snippets/blob/master/CHANGELOG.md)
