@@ -81,7 +81,7 @@ Snippets
 
 Thank you for considering contributing to the CMB Atom Snippets. You can read the contribution guide lines [here](CONTRIBUTING.md)
 
-You can Check [here](https://github.com/lubusIN/CMB-Atom-Snippets/projects/1) Task list
+You can check the [Task list](https://github.com/lubusIN/CMB-Atom-Snippets/projects/1) for contribution ideas. 
 
 **Credits**
 ------------
