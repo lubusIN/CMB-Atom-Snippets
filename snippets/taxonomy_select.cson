@@ -8,6 +8,6 @@
 	    'name'     => '${2:Taxonomy Select Field}',
 	    'type'     => 'taxonomy_select',
 	    'taxonomy' => '${3:category}'
-	);
+	),
 
     """
